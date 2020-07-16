@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Wolfram Esser",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "watchr": "^6.4.0"
+  }
 }
