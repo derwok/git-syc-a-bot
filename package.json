@@ -1,0 +1,11 @@
+{
+  "name": "git-sync-a-bot",
+  "version": "0.1.0",
+  "description": "Filewatcher triggers git commit/push/pull-rebase on local changes",
+  "main": "gsab.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wolfram Esser",
+  "license": "MIT"
+}
